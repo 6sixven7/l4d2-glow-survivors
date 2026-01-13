@@ -596,4 +596,5 @@ public void Event_PlayerTeam(Event hEvent, const char[] name, bool dontBroadcast
 public bool IsValidClient(int client)
 {
     return (client > 0 && client <= MaxClients && IsClientConnected(client) && IsClientInGame(client));
+
 }
