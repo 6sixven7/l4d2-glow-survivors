@@ -1,5 +1,5 @@
 # l4d2-glow-survivors
-a sourcemod plugin for l4d2  
+a sourcemod plugin for l4d2 wrote by Ai
 ### Inspired by <https://www.kitasoda.com> & <https://forums.alliedmods.net/showthread.php?t=332956> &  
 ### rpg.sp of <https://github.com/fantasylidong/CompetitiveWithAnne> 
 Not allowed to use for RPG server!!!  
